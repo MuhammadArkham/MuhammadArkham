@@ -83,6 +83,34 @@ class Developer {
   </tr>
 </table>
 
+<!-- ====================== PROJECTS ====================== -->
+## 🚀 What I'm Building
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏔️ Temanggung App</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
+      </p>
+      <p>A tourism app for exploring destinations in Temanggung, planning trips, and getting AI-powered budget estimates.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💪 FitMe App</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+      </p>
+      <p>A mobile fitness application to help users track workouts and stay consistent with their health goals.</p>
+    </td>
+  </tr>
+</table>
+
+> 🔒 These projects are currently under active development in private repositories.
+
 <!-- ====================== GITHUB STATS ====================== -->
 ## 📊 GitHub Analytics
 
