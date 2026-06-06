@@ -6,7 +6,7 @@
 <!-- ====================== TYPING ANIMATION ====================== -->
 <div align="center">
   <a href="https://github.com/MuhammadArkham">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+PHP+%26+Python;Backend+%26+Web+Programming+Enthusiast;Informatics+Engineering+Student;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+Developer;PHP+%7C+Python+%7C+Flutter+(Dart);Building+Apps+%26+Web+Applications;Informatics+Engineering+Student" alt="Typing SVG" />
   </a>
 </div>
 
@@ -34,8 +34,9 @@ class Developer {
     public $name       = "Muhammad Arkhamullah Rifai Asshidiq";
     public $role       = "Informatics Engineering Student";
     public $university = "Universitas Pelita Bangsa";
-    public $focus      = ["Web Development", "Backend", "Programming"];
-    public $languages  = ["PHP", "Python", "HTML", "CSS", "Java"];
+    public $focus      = ["Web Development", "Mobile Apps", "Backend"];
+    public $languages  = ["PHP", "Python", "Dart", "Java", "HTML", "CSS"];
+    public $frameworks = ["Flutter"];
     public $learning   = ["Software Engineering", "Database", "OOP"];
 
     public function sayHi() {
@@ -46,8 +47,8 @@ class Developer {
 ```
 
 - 🎓 Informatics Engineering student at **Universitas Pelita Bangsa**
-- 🌐 Mainly building **web applications** with **PHP** and **Python**
-- 📱 Explored **mobile development** with **Java**
+- 🌐 Building **web applications** with **PHP** and **Python**
+- 📱 Developing **mobile apps** with **Flutter** & **Dart**
 - 🗄️ Comfortable working with **MySQL** databases
 - 📫 Reach me at **arkhammulloh123@gmail.com**
 
@@ -58,7 +59,13 @@ class Developer {
   <tr>
     <td align="center"><strong>Languages</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=php,python,html,css,js,java&theme=dark" alt="languages" />
+      <img src="https://skillicons.dev/icons?i=php,python,dart,java,html,css,js&theme=dark" alt="languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frameworks</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="frameworks" />
     </td>
   </tr>
   <tr>
