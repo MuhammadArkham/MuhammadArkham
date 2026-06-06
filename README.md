@@ -49,7 +49,7 @@ class Developer {
 
 - 🎓 Informatics Engineering student at **Universitas Pelita Bangsa**
 - 🌐 Building **web applications** with **PHP** and **Python**
-- 📱 Developing **mobile apps** with **Flutter** & **Dart**
+- 📱 Developing **mobile apps** with **Flutter** (Dart) and **native Android** (Java)
 - 🗄️ Experienced with **MySQL**, **SQLite**, and **Supabase**
 - 📫 Reach me at **arkhammulloh123@gmail.com**
 
@@ -66,7 +66,7 @@ class Developer {
   <tr>
     <td align="center"><strong>Frameworks</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="frameworks" />
+      <img src="https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark" alt="frameworks" />
     </td>
   </tr>
   <tr>
@@ -100,11 +100,12 @@ class Developer {
     <td width="50%" valign="top">
       <h3>💪 FitMe App</h3>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
       </p>
-      <p>A mobile fitness application to help users track workouts and stay consistent with their health goals.</p>
+      <p>A native Android fitness application built with Java to help users track workouts and stay consistent with their health goals.</p>
     </td>
   </tr>
 </table>
