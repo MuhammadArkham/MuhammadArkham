@@ -37,6 +37,7 @@ class Developer {
     public $focus      = ["Web Development", "Mobile Apps", "Backend"];
     public $languages  = ["PHP", "Python", "Dart", "Java", "HTML", "CSS"];
     public $frameworks = ["Flutter"];
+    public $databases  = ["MySQL", "SQLite", "Supabase"];
     public $learning   = ["Software Engineering", "Database", "OOP"];
 
     public function sayHi() {
@@ -49,7 +50,7 @@ class Developer {
 - 🎓 Informatics Engineering student at **Universitas Pelita Bangsa**
 - 🌐 Building **web applications** with **PHP** and **Python**
 - 📱 Developing **mobile apps** with **Flutter** & **Dart**
-- 🗄️ Comfortable working with **MySQL** databases
+- 🗄️ Experienced with **MySQL**, **SQLite**, and **Supabase**
 - 📫 Reach me at **arkhammulloh123@gmail.com**
 
 <!-- ====================== TECH STACK ====================== -->
@@ -71,7 +72,7 @@ class Developer {
   <tr>
     <td align="center"><strong>Database</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="database" />
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase&theme=dark" alt="database" />
     </td>
   </tr>
   <tr>
