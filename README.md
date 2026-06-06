@@ -6,7 +6,7 @@
 <!-- ====================== TYPING ANIMATION ====================== -->
 <div align="center">
   <a href="https://github.com/MuhammadArkham">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Python+Enthusiast;Always+Learning+New+Things;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+PHP+%26+Python;Backend+%26+Web+Programming+Enthusiast;Informatics+Engineering+Student;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,49 +26,61 @@
 <br/>
 
 <!-- ====================== ABOUT ME ====================== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## 👨‍💻 About Me
 
-<img align="right" width="38%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding gif" />
+```php
+<?php
+class Developer {
+    public $name       = "Muhammad Arkhamullah Rifai Asshidiq";
+    public $role       = "Informatics Engineering Student";
+    public $university = "Universitas Pelita Bangsa";
+    public $focus      = ["Web Development", "Backend", "Programming"];
+    public $languages  = ["PHP", "Python", "HTML", "CSS", "Java"];
+    public $learning   = ["Software Engineering", "Database", "OOP"];
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Muhammad Arkhamullah Rifai Asshidiq"
-        self.role = "Informatics Engineering Student"
-        self.university = "Universitas Pelita Bangsa"
-        self.languages = ["Python", "C", "HTML", "CSS"]
-        self.learning = ["Data Structures", "Algorithms",
-                          "Software Development"]
-        self.mindset = "Turning ideas into clean, working code"
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! 🚀")
-
-
-me = Developer()
-me.say_hi()
+    public function sayHi() {
+        return "Thanks for visiting my profile! 🚀";
+    }
+}
+?>
 ```
 
 - 🎓 Informatics Engineering student at **Universitas Pelita Bangsa**
-- 🐍 Focused on **Python**, exploring new technologies every day
-- 🌱 Currently learning **Data Structures, Algorithms & Software Development**
+- 🌐 Mainly building **web applications** with **PHP** and **Python**
+- 📱 Explored **mobile development** with **Java**
+- 🗄️ Comfortable working with **MySQL** databases
 - 📫 Reach me at **arkhammulloh123@gmail.com**
-
-<br clear="right"/>
 
 <!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode,linux&theme=dark" alt="tech stack" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=php,python,html,css,js,java&theme=dark" alt="languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Database</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="database" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="tools" />
+    </td>
+  </tr>
+</table>
 
 <!-- ====================== GITHUB STATS ====================== -->
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MuhammadArkham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=1572B6" alt="github stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadArkham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6" alt="top languages" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadArkham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&langs_count=8" alt="top languages" />
 </div>
 
 <div align="center">
