@@ -1,148 +1,112 @@
-<!-- ====================== HEADER BANNER ====================== -->
 <a href="https://github.com/MuhammadArkham">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1572B6&height=220&section=header&text=Muhammad%20Arkhamullah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Engineering%20%C2%B7%20Universitas%20Pelita%20Bangsa&descAlignY=58&descSize=18" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0e2954,100:1a5276&height=220&section=header&text=Muhammad%20Arkhamullah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Informatics%20Engineering%20%E2%80%94%20Universitas%20Pelita%20Bangsa&descAlignY=60&descSize=17&descColor=89c4f4" alt="header" />
 </a>
 
-<!-- ====================== TYPING ANIMATION ====================== -->
 <div align="center">
-  <a href="https://github.com/MuhammadArkham">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+Developer;PHP+%7C+Python+%7C+Flutter+(Dart);Building+Apps+%26+Web+Applications;Informatics+Engineering+Student" alt="Typing SVG" />
-  </a>
-</div>
 
-<!-- ====================== SOCIAL BADGES ====================== -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-arkhamullah-rifai-asshidiq" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="mailto:arkhammulloh123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://github.com/MuhammadArkham">
-    <img src="https://komarev.com/ghpvc/?username=MuhammadArkham&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  </a>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=4A9EE0&center=true&vCenter=true&width=580&lines=Full-Stack+%26+Mobile+Developer;PHP+%7C+Python+%7C+Flutter+%7C+Java;Building+AI-integrated+apps+for+real+use+cases" alt="Typing SVG" />
 
 <br/>
 
-<!-- ====================== ABOUT ME ====================== -->
-## 👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-arkhamullah-rifai-asshidiq)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arkhammulloh123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MuhammadArkham)
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadArkham&label=views&color=1a5276&style=flat-square)
 
-```php
-<?php
-class Developer {
-    public $name       = "Muhammad Arkhamullah Rifai Asshidiq";
-    public $role       = "Informatics Engineering Student";
-    public $university = "Universitas Pelita Bangsa";
-    public $focus      = ["Web Development", "Mobile Apps", "Backend"];
-    public $languages  = ["PHP", "Python", "Dart", "Java", "HTML", "CSS"];
-    public $frameworks = ["Flutter"];
-    public $databases  = ["MySQL", "SQLite", "Supabase"];
-    public $learning   = ["Software Engineering", "Database", "OOP"];
+</div>
 
-    public function sayHi() {
-        return "Thanks for visiting my profile! 🚀";
-    }
-}
-?>
+---
+
+## About
+
+Informatics Engineering student at Universitas Pelita Bangsa, focused on building practical applications — web, mobile, and AI-integrated systems. Currently competing in national-level challenges while finishing my degree.
+
+I work across the full stack: PHP and Python for the web, Flutter for cross-platform mobile, and native Android with Java. Lately spending more time integrating AI APIs (Gemini, Azure, OpenCV) into products that solve real problems for Indonesian users.
+
+- Based in Cikarang, West Java, Indonesia
+- Open to collaboration on AI-integrated or mobile projects
+- Contact: arkhammulloh123@gmail.com
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Runtime**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+**Database & Backend**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**AI & Tools**
+
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| **Tenang** | Next.js · Python · Supabase · Azure AI | Mental health & digital well-being app for Indonesian university students. AI-assisted mood journaling and stress tracking. Built for elevAIte AI Impact Challenge (Dicoding × Microsoft). |
+| **Temanggung** | Flutter · FastAPI · Supabase · Gemini API | Tourism companion app for Kabupaten Temanggung. AI-generated itineraries, budget estimation, and discovery across 46+ curated destinations. |
+| **FitMe** | Java · Android · SQLite | Native Android fitness tracker. Offline-first with local SQLite storage for workout logging and progress tracking. |
+| **SiKeluh** | PHP · MySQL | Web-based student complaint management system with full UML documentation and Scrum-based SDLC. |
+
+> Most repositories are private during active development.
+
+---
+
+## Currently
+
+```text
+Building   →  Tenang (elevAIte Challenge submission, Dicoding × Microsoft)
+Learning   →  OOP Design Patterns, Cloud Deployment, AI API integration
+Goal       →  Graduate with a portfolio of shipped, real-world products
 ```
 
-- 🎓 Informatics Engineering student at **Universitas Pelita Bangsa**
-- 🌐 Building **web applications** with **PHP** and **Python**
-- 📱 Developing **mobile apps** with **Flutter** (Dart) and **native Android** (Java)
-- 🗄️ Experienced with **MySQL**, **SQLite**, and **Supabase**
-- 📫 Reach me at **arkhammulloh123@gmail.com**
+---
 
-<!-- ====================== TECH STACK ====================== -->
-## 🛠️ Tech Stack & Tools
-
-<table align="center">
-  <tr>
-    <td align="center"><strong>Languages</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=php,python,dart,java,html,css,js&theme=dark" alt="languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Frameworks</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark" alt="frameworks" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Database</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase&theme=dark" alt="database" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tools</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="tools" />
-    </td>
-  </tr>
-</table>
-
-<!-- ====================== PROJECTS ====================== -->
-## 🚀 What I'm Building
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏔️ Temanggung App</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
-      </p>
-      <p>A tourism app for exploring destinations in Temanggung, planning trips, and getting AI-powered budget estimates.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💪 FitMe App</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-      </p>
-      <p>A native Android fitness application built with Java to help users track workouts and stay consistent with their health goals.</p>
-    </td>
-  </tr>
-</table>
-
-> 🔒 These projects are currently under active development in private repositories.
-
-<!-- ====================== GITHUB STATS ====================== -->
-## 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MuhammadArkham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=1572B6" alt="github stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadArkham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&langs_count=8" alt="top languages" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MuhammadArkham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4A9EE0&icon_color=4A9EE0" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadArkham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A9EE0&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadArkham&theme=tokyonight&hide_border=true&background=0D1117&ring=0e75b6&fire=1572B6&currStreakLabel=0e75b6" alt="github streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadArkham&theme=tokyonight&hide_border=true&background=0D1117&ring=4A9EE0&fire=4A9EE0&currStreakLabel=4A9EE0" />
 </div>
-
-<!-- ====================== ACTIVITY GRAPH ====================== -->
-## 📈 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadArkham&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0e75b6&line=1572B6&point=ffffff" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadArkham&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4A9EE0&line=1a5276&point=4A9EE0" />
 </div>
 
-<!-- ====================== TROPHIES ====================== -->
-## 🏆 GitHub Trophies
+---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadArkham&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+  <sub>arkhammulloh123@gmail.com · Cikarang, Indonesia</sub>
 </div>
 
-<!-- ====================== FOOTER ====================== -->
-<br/>
-
-<div align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad." — Cory House</em>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1572B6,100:0e75b6&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a5276,100:0a0f1e&height=120&section=footer" alt="footer" />
