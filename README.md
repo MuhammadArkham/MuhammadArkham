@@ -65,19 +65,6 @@ I work across the full stack: PHP and Python for the web, Flutter for cross-plat
 
 ---
 
-## Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| **Tenang** | Next.js · Python · Supabase · Azure AI | Mental health & digital well-being app for Indonesian university students. AI-assisted mood journaling and stress tracking. Built for elevAIte AI Impact Challenge (Dicoding × Microsoft). |
-| **Temanggung** | Flutter · FastAPI · Supabase · Gemini API | Tourism companion app for Kabupaten Temanggung. AI-generated itineraries, budget estimation, and discovery across 46+ curated destinations. |
-| **FitMe** | Java · Android · SQLite | Native Android fitness tracker. Offline-first with local SQLite storage for workout logging and progress tracking. |
-| **SiKeluh** | PHP · MySQL | Web-based student complaint management system with full UML documentation and Scrum-based SDLC. |
-
-> Most repositories are private during active development.
-
----
-
 ## Currently
 
 ```text
