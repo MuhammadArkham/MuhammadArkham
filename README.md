@@ -65,16 +65,6 @@ I work across the full stack: PHP and Python for the web, Flutter for cross-plat
 
 ---
 
-## Currently
-
-```text
-Building   →  Tenang (elevAIte Challenge submission, Dicoding × Microsoft)
-Learning   →  OOP Design Patterns, Cloud Deployment, AI API integration
-Goal       →  Graduate with a portfolio of shipped, real-world products
-```
-
----
-
 ## GitHub Stats
 
 <div align="center">
